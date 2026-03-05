@@ -74,22 +74,70 @@ const dominik = {
 
 ## 🚀 &nbsp;Featured Projects
 
-<div align="center">
-
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">10xCards</h3>
+<p align="center">
 <a href="https://github.com/dominikmodrzejewski99/10x-cards">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dominikmodrzejewski99&repo=10x-cards&theme=github_dark&hide_border=true&border_radius=12&show_owner=true" />
+<img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
 </a>
+</p>
+<p align="center">AI-powered flashcard generator with OpenAI integration, Supabase auth, and full CRUD interface</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">Hungry?</h3>
+<p align="center">
 <a href="https://github.com/dominikmodrzejewski99/matchingRestaurant--frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dominikmodrzejewski99&repo=matchingRestaurant--frontend&theme=github_dark&hide_border=true&border_radius=12&show_owner=true" />
+<img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
 </a>
+</p>
+<p align="center">Quiz-based app that suggests top 3 restaurants using a custom matching algorithm</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">WhatsApp Chat Forwarder</h3>
+<p align="center">
 <a href="https://github.com/dominikmodrzejewski99/whatsapp-chat-forwarder">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dominikmodrzejewski99&repo=whatsapp-chat-forwarder&theme=github_dark&hide_border=true&border_radius=12&show_owner=true" />
+<img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
 </a>
+</p>
+<p align="center">Real-time event-driven service forwarding WhatsApp messages to Google Chat via webhooks</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square&logo=webhook&logoColor=white" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">Flight Finder</h3>
+<p align="center">
 <a href="https://github.com/dominikmodrzejewski99/flight-finder">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dominikmodrzejewski99&repo=flight-finder&theme=github_dark&hide_border=true&border_radius=12&show_owner=true" />
+<img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
 </a>
-
-</div>
+</p>
+<p align="center">Flight search engine with airport autocomplete powered by the Amadeus API</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
