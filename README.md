@@ -1,88 +1,123 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:3178C6&height=200&section=header&text=Dominik%20Modrzejewski&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Angular%20Developer&descSize=18&descAlignY=55&descColor=ffffff" />
+
 <div align="center">
 
-# Hi, I'm Dominik Modrzejewski
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DD0031&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Building+scalable+apps+for+millions+of+users;4%2B+years+with+Angular%2C+TypeScript+%26+RxJS;Clean+code+%7C+Reactive+architecture+%7C+Signals)](https://github.com/dominikmodrzejewski99)
 
-### Senior Angular Developer
-
-I build scalable web applications serving millions of users.  
-4+ years of hands-on experience with Angular, TypeScript, and reactive architectures.
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-modrzejewski-03b38a226)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dominikmodrzejewski99)
-[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:modrzejewskidominik@proton.me)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:modrzejewskidominik@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dominikmodrzejewski99.github.io)
+
+<img src="https://komarev.com/ghpvc/?username=dominikmodrzejewski99&style=flat-square&color=DD0031&label=Profile+Views" alt="Profile views" />
 
 </div>
 
----
+<br/>
 
-### About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
 
-- Working at **Web Innovative Software** in Wroclaw, Poland
-- Building a financial & legal platform used by **4M+ users monthly**
-- Passionate about **component architecture**, **reactive programming**, and **clean code**
-- Engineering degree from **Wroclaw University of Science and Technology**
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="120" />
 
----
+```typescript
+const dominik = {
+  role: "Senior Angular Developer",
+  company: "Web Innovative Software",
+  location: "Wroclaw, Poland",
+  impact: "4M+ monthly users",
+  education: "BSc Engineering @ Wroclaw University of Technology",
+  passions: ["Component Architecture", "Reactive Programming", "Clean Code"],
+};
+```
 
-### Tech Stack
+<br/>
 
-**Frontend & Frameworks**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white)
-![NX](https://img.shields.io/badge/NX-143055?style=flat-square&logo=nx&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular_Material-DD0031?style=flat-square&logo=angular&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Testing**
+### Frontend
+<div align="center">
+<img src="https://skillicons.dev/icons?i=angular,ts,js,rxjs&theme=dark" alt="Frontend" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind&theme=dark" alt="Styling" />
+</div>
+</td>
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+<td valign="top" width="33%">
 
-**Tools & DevOps**
+### Testing & Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=jest,cypress,docker,git&theme=dark" alt="Testing & Tools" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=github,githubactions,figma,nodejs&theme=dark" alt="More Tools" />
+</div>
+</td>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<td valign="top" width="33%">
 
-**AI-Assisted Development**
+### Ecosystem
+<div align="center">
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Angular Signals](https://img.shields.io/badge/Signals-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)
+![NX](https://img.shields.io/badge/NX-143055?style=for-the-badge&logo=nx&logoColor=white)
+![RWD](https://img.shields.io/badge/RWD-2196F3?style=for-the-badge&logo=responsive&logoColor=white)
 
----
+</div>
+</td>
+</tr>
+</table>
 
-### Featured Projects
+<br/>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**10xCards**](https://github.com/dominikmodrzejewski99/10x-cards) | AI-powered flashcard generator with OpenAI integration, auth via Supabase, and full CRUD interface | Angular 19, Signals, Supabase, OpenAI API |
-| [**Hungry?**](https://github.com/dominikmodrzejewski99/matchingRestaurant--frontend) | Quiz-based app that suggests top 3 restaurants based on user preferences using a custom matching algorithm | Angular 19, Signals, Laravel REST API |
-| [**WhatsApp Chat Forwarder**](https://github.com/dominikmodrzejewski99/whatsapp-chat-forwarder) | Real-time event-driven service forwarding WhatsApp messages to Google Chat via webhooks | Node.js, Docker, Webhooks |
-| [**Flight Finder**](https://github.com/dominikmodrzejewski99/flight-finder) | Flight search engine with airport autocomplete powered by the Amadeus API | Next.js, TypeScript, Tailwind CSS |
-| [**Currency Converter**](https://github.com/dominikmodrzejewski99/currency-converter) | Real-time currency conversion app | Angular, TypeScript |
-| [**Jira Sprint Export**](https://github.com/dominikmodrzejewski99/ExportJiraSprintTasks) | Utility to export tasks from an active Jira sprint | JavaScript |
-
----
-
-### GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dominikmodrzejewski99&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikmodrzejewski99&layout=compact&theme=github_dark&hide_border=true" height="170" />
+<a href="https://github.com/dominikmodrzejewski99/10x-cards">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dominikmodrzejewski99&repo=10x-cards&theme=github_dark&hide_border=true&border_radius=12&show_owner=true" />
+</a>
+<a href="https://github.com/dominikmodrzejewski99/matchingRestaurant--frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dominikmodrzejewski99&repo=matchingRestaurant--frontend&theme=github_dark&hide_border=true&border_radius=12&show_owner=true" />
+</a>
+<a href="https://github.com/dominikmodrzejewski99/whatsapp-chat-forwarder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dominikmodrzejewski99&repo=whatsapp-chat-forwarder&theme=github_dark&hide_border=true&border_radius=12&show_owner=true" />
+</a>
+<a href="https://github.com/dominikmodrzejewski99/flight-finder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dominikmodrzejewski99&repo=flight-finder&theme=github_dark&hide_border=true&border_radius=12&show_owner=true" />
+</a>
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dominikmodrzejewski99&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&count_private=true&icon_color=DD0031&title_color=DD0031" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikmodrzejewski99&layout=compact&theme=github_dark&hide_border=true&border_radius=12&title_color=DD0031&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dominikmodrzejewski99&theme=github-dark-blue&hide_border=true" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikmodrzejewski99&theme=github-dark-blue&hide_border=true&border_radius=12&ring=DD0031&fire=DD0031&currStreakLabel=DD0031" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dominikmodrzejewski99&custom_title=Contribution%20Graph&theme=github-dark&hide_border=true&radius=12&area=true&area_color=DD0031&line=DD0031&point=3178C6" width="95%"/>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:3178C6&height=120&section=footer" />
