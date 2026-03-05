@@ -2,13 +2,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DD0031&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Building+scalable+apps+for+millions+of+users;4%2B+years+with+Angular%2C+TypeScript+%26+RxJS;Clean+code+%7C+Reactive+architecture+%7C+Signals)](https://github.com/dominikmodrzejewski99)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DD0031&center=true&vCenter=true&repeat=true&width=620&height=30&lines=Building+scalable+apps+for+millions+of+users;4%2B+years+with+Angular%2C+TypeScript+%26+RxJS;Clean+code+%7C+Reactive+architecture+%7C+Signals)](https://github.com/dominikmodrzejewski99)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-modrzejewski-03b38a226)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:modrzejewskidominik@proton.me)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dominikmodrzejewski99.github.io)
 
 <img src="https://komarev.com/ghpvc/?username=dominikmodrzejewski99&style=flat-square&color=DD0031&label=Profile+Views" alt="Profile views" />
 
@@ -145,22 +144,14 @@ const dominik = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dominikmodrzejewski99&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&count_private=true&icon_color=DD0031&title_color=DD0031" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikmodrzejewski99&layout=compact&theme=github_dark&hide_border=true&border_radius=12&title_color=DD0031&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikmodrzejewski99&theme=github-dark-blue&hide_border=true&border_radius=12&ring=DD0031&fire=DD0031&currStreakLabel=DD0031" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dominikmodrzejewski99&custom_title=Contribution%20Graph&theme=github-dark&hide_border=true&radius=12&area=true&area_color=DD0031&line=DD0031&point=3178C6" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dominikmodrzejewski99&theme=github-dark-blue&hide_border=true&border_radius=12&ring=DD0031&fire=DD0031&currStreakLabel=DD0031" />
+  <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikmodrzejewski99&hide_border=true&border_radius=12&ring=DD0031&fire=DD0031&currStreakLabel=DD0031" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikmodrzejewski99&layout=compact&theme=github_dark&hide_border=true&border_radius=12&title_color=DD0031&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikmodrzejewski99&layout=compact&hide_border=true&border_radius=12&title_color=DD0031&langs_count=8" />
+</picture>
 
 </div>
 
