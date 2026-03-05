@@ -146,11 +146,7 @@ const dominik = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dominikmodrzejewski99&theme=github-dark-blue&hide_border=true&border_radius=12&ring=DD0031&fire=DD0031&currStreakLabel=DD0031" />
-  <img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikmodrzejewski99&hide_border=true&border_radius=12&ring=DD0031&fire=DD0031&currStreakLabel=DD0031" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikmodrzejewski99&layout=compact&theme=github_dark&hide_border=true&border_radius=12&title_color=DD0031&langs_count=8" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominikmodrzejewski99&layout=compact&hide_border=true&border_radius=12&title_color=DD0031&langs_count=8" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikmodrzejewski99&hide_border=true&border_radius=12&ring=DD0031&fire=DD0031&currStreakLabel=DD0031" />
 </picture>
 
 </div>
