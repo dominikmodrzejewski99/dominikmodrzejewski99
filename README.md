@@ -140,17 +140,4 @@ const dominik = {
 
 <br/>
 
-## 🔥 &nbsp;GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dominikmodrzejewski99&theme=github-dark-blue&hide_border=true&border_radius=12&ring=DD0031&fire=DD0031&currStreakLabel=DD0031" />
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominikmodrzejewski99&hide_border=true&border_radius=12&ring=DD0031&fire=DD0031&currStreakLabel=DD0031" />
-</picture>
-
-</div>
-
-<br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:3178C6&height=120&section=footer" />
