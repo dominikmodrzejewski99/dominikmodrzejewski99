@@ -16,9 +16,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="120" />
+## 👨‍💻 &nbsp;About Me
 
 ```typescript
 const dominik = {
@@ -33,7 +31,7 @@ const dominik = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <table>
 <tr>
@@ -74,7 +72,7 @@ const dominik = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
@@ -95,7 +93,7 @@ const dominik = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Stats
+## 🔥 &nbsp;GitHub Stats
 
 <div align="center">
 
