@@ -76,37 +76,61 @@ const dominik = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">10xCards</h3>
+<h3 align="center">Job Application CRM</h3>
+<p align="center">
+<a href="https://github.com/dominikmodrzejewski99/job-crm">
+<img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+</a>
+<a href="https://frontend-beige-omega-33.vercel.app/landing">
+<img src="https://img.shields.io/badge/Live_Demo-3FCF8E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"/>
+</a>
+</p>
+<p align="center">Full-stack CRM for tracking job applications. Multi-user with JWT, kanban + funnel views, email follow-up reminders, JustJoinIT / NoFluffJobs scraping with match scoring</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Nx_monorepo-143055?style=flat-square&logo=nx&logoColor=white" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">Memlo (10xCards)</h3>
 <p align="center">
 <a href="https://github.com/dominikmodrzejewski99/10x-cards">
 <img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
 </a>
+<a href="https://10x-cards-70n.pages.dev/">
+<img src="https://img.shields.io/badge/Live_Demo-3FCF8E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"/>
+</a>
 </p>
-<p align="center">AI-powered flashcard generator with OpenAI integration, Supabase auth, and full CRUD interface</p>
+<p align="center">AI flashcard generator with SM-2 spaced repetition, language proficiency tests (B1/B2/C1 Cambridge), quizzes, voice notes &amp; image cards</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square&logo=openai&logoColor=white" />
-</p>
-</td>
-<td width="50%">
-<h3 align="center">Hungry?</h3>
-<p align="center">
-<a href="https://github.com/dominikmodrzejewski99/matchingRestaurant--frontend">
-<img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-</a>
-</p>
-<p align="center">Quiz-based app that suggests top 3 restaurants using a custom matching algorithm</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Signals-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/SM--2_Algorithm-FFB300?style=flat-square" />
 </p>
 </td>
 </tr>
 <tr>
+<td width="50%">
+<h3 align="center">FoodMood</h3>
+<p align="center">
+<a href="https://github.com/dominikmodrzejewski99/foodmood">
+<img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+</a>
+</p>
+<p align="center">Full-stack monorepo — Angular frontend + Laravel 11 REST API. Quiz-based app that recommends the top 3 restaurants in Wrocław via a custom matching algorithm scored against user preferences</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Monorepo-143055?style=flat-square" />
+</p>
+</td>
 <td width="50%">
 <h3 align="center">WhatsApp Chat Forwarder</h3>
 <p align="center">
@@ -114,25 +138,12 @@ const dominik = {
 <img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
 </a>
 </p>
-<p align="center">Real-time event-driven service forwarding WhatsApp messages to Google Chat via webhooks</p>
+<p align="center">Real-time event-driven service forwarding WhatsApp messages to Google Chat via webhooks. Runs on Cloud Run with service-account auth</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square&logo=webhook&logoColor=white" />
-</p>
-</td>
-<td width="50%">
-<h3 align="center">Flight Finder</h3>
-<p align="center">
-<a href="https://github.com/dominikmodrzejewski99/flight-finder">
-<img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-</a>
-</p>
-<p align="center">Flight search engine with airport autocomplete powered by the Amadeus API</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 </td>
 </tr>
