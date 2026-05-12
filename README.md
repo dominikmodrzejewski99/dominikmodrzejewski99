@@ -121,6 +121,9 @@ const dominik = {
 <a href="https://github.com/dominikmodrzejewski99/foodmood">
 <img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
 </a>
+<a href="https://foodmood-eight.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-3FCF8E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"/>
+</a>
 </p>
 <p align="center">Full-stack monorepo — Angular frontend + Laravel 11 REST API. Quiz-based app that recommends the top 3 restaurants in Wrocław via a custom matching algorithm scored against user preferences</p>
 <p align="center">
@@ -132,18 +135,18 @@ const dominik = {
 </p>
 </td>
 <td width="50%">
-<h3 align="center">WhatsApp Chat Forwarder</h3>
+<h3 align="center">Ordo Agency</h3>
 <p align="center">
-<a href="https://github.com/dominikmodrzejewski99/whatsapp-chat-forwarder">
-<img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+<a href="https://ordoagency.pl/">
+<img src="https://img.shields.io/badge/Visit_Site-DD0031?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"/>
 </a>
 </p>
-<p align="center">Real-time event-driven service forwarding WhatsApp messages to Google Chat via webhooks. Runs on Cloud Run with service-account auth</p>
+<p align="center">My own web development agency — building custom websites, e-commerce stores and AI-powered chatbots for clients</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square&logo=webhook&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Development-3178C6?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/E--commerce-FF6C37?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Chatbots-6366F1?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Client_Work-143055?style=flat-square" />
 </p>
 </td>
 </tr>
