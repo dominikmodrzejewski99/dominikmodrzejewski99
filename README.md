@@ -150,6 +150,40 @@ const dominik = {
 </p>
 </td>
 </tr>
+<tr>
+<td colspan="2">
+<h3 align="center">📦 ngx-signal-datetimepicker</h3>
+<p align="center">
+<a href="https://www.npmjs.com/package/ngx-signal-datetimepicker">
+<img src="https://img.shields.io/npm/v/ngx-signal-datetimepicker.svg?style=for-the-badge&logo=npm&color=CB3837&logoColor=white" alt="npm"/>
+</a>
+<a href="https://github.com/dominikmodrzejewski99/ngx-signal-datetimepicker">
+<img src="https://img.shields.io/badge/View_Repo-DD0031?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
+</a>
+<a href="https://ngx-signal-datetimepicker.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-3FCF8E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"/>
+</a>
+</p>
+<p align="center">
+Open-source Angular library — one control for date <strong>and</strong> time, built on the new Signal Forms API. Reactive Forms compatible via <code>ControlValueAccessor</code>, IANA time-zone aware, themeable via CSS custom properties, <strong>WCAG 2.2 AAA</strong> out of the box, zero runtime dependencies.
+</p>
+<p align="center">
+
+```bash
+npm install ngx-signal-datetimepicker
+```
+
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Angular_21-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Signal_Forms-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/WCAG_2.2_AAA-2ea44f?style=flat-square&logo=accessibility&logoColor=white" />
+<img src="https://img.shields.io/badge/MIT-143055?style=flat-square&logo=opensourceinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/Zero_deps-555?style=flat-square" />
+</p>
+</td>
+</tr>
 </table>
 
 <br/>
